@@ -93,6 +93,5 @@ if __name__ == "__main__":
     window.resize(200, 100)
     window.show()
 
-
     # Execute application
     sys.exit(app.exec_())
